@@ -18,3 +18,7 @@ To switch between datasets, please alse modify the model structure in dropen\_at
 
 ### Test for MNIST
 	python3 dropen_attack.py --dataset MNIST --base_classifier ./dropen_model/TRS.pth.tar --attack_type pgd --adv-eps 0.02
+
+## Trained Models
+
+Trained models for adversarial attack validation can be found in https://cloud.tsinghua.edu.cn/d/1fe4412998404ca3ac03/
